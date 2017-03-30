@@ -1,0 +1,13 @@
+body {
+  background-color: #427af4;
+  font-family: Helvetica; /*Changes font of entire website to Helvetica*/
+  margin: 0px 10% 0 10%;
+  color: #9bc3ff; /*refers to font colour turquiose*/
+
+}
+
+h1 {
+  color: #ff9eeb;
+text-align: center;
+text-shadow: 1px 0 0 ##9647e5;
+}
